@@ -1,6 +1,6 @@
 # freeze-file-data
 
-This is a command line application used for generating a JSON map file of a directory and all of its files (and the details for that file). The program is written Go and utilizes Go Channels to write the output file *while* reading scanning the content of the specified directory.
+This is a command line application used for generating a JSON map file of a directory and all of its files (and the details for that file). The program is written in Go and utilizes Go Channels to write the output file *while* reading scanning the content of the specified directory.
 
 # Usage
 > NOTE: The following instructions assume you are in the root directory of this project.
